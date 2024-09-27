@@ -1,0 +1,48 @@
+-------------------------------------------------------------------------------
+Test set: featureDefinitions.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 160.118 s <<< FAILURE! - in featureDefinitions.TestRunner
+This feature will verify if swiggy services are available at certain pin codes.Verify swiggy services are available at a certain pin code  Time elapsed: 8.76 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step "User should be able to see Products Page" is undefined. You can implement it using the snippet(s) below:
+
+@Then("User should be able to see Products Page")
+public void user_should_be_able_to_see_products_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+This feature will verify if swiggy services are available at certain pin codes.Verify swiggy services are available at a certain area name  Time elapsed: 7.067 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step "User should be able to see Products Page" is undefined. You can implement it using the snippet(s) below:
+
+@Then("User should be able to see Products Page")
+public void user_should_be_able_to_see_products_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+This feature will verify if swiggy services are available at certain pin codes.Verify swiggy services are available at a certain pin code which is not servicable yet #1  Time elapsed: 12.411 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step "User should not be able to see Products Page" is undefined. You can implement it using the snippet(s) below:
+
+@Then("User should not be able to see Products Page")
+public void user_should_not_be_able_to_see_products_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+This feature will verify if swiggy services are available at certain pin codes.Verify swiggy services are available at a certain pin code which is not servicable yet #2  Time elapsed: 11.389 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step "User should not be able to see Products Page" is undefined. You can implement it using the snippet(s) below:
+
+@Then("User should not be able to see Products Page")
+public void user_should_not_be_able_to_see_products_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
